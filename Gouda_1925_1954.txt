@@ -1,0 +1,8 @@
+year, inhabitants, source
+1925, 27229, http://www.dbnl.org/arch/_bev001bevo02_01/pag/_bev001bevo02_01.pdf
+1930, 28612, http://www.dbnl.org/arch/_bev001bevo07_01/pag/_bev001bevo07_01.pdf
+1935, 31035, http://www.dbnl.org/arch/_bev001bevo13_01/pag/_bev001bevo13_01.pdf
+1940, 33257, http://www.dbnl.org/arch/_bev001bevo18_01/pag/_bev001bevo18_01.pdf
+1945, 36708, http://www.dbnl.org/arch/_bev001bevo20_01/pag/_bev001bevo20_01.pdf
+1950, 38595, http://www.dbnl.org/arch/_bev001bevo22_01/pag/_bev001bevo22_01.pdf
+1954, 40104, http://www.dbnl.org/arch/_bev001bevo25_01/pag/_bev001bevo25_01.pdf
